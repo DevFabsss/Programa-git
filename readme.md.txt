@@ -1,1 +1,2 @@
-Buen dia.
+Buen dia,
+Espero se encuentre bien.
